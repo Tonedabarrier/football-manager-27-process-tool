@@ -45,7 +45,7 @@ Windows overlay for **[Football Manager 27](https://store.steampowered.com/app/4
 |---|---|
 | **FM27 Windows Tool (42 options)** | [voidtrainer](https://voidtrainer.com/football-manager-27-cheat) |
 | **Game on Steam** | [Football Manager 27 — Steam](https://store.steampowered.com/app/4530370/) |
-| **Full Option List** | [See Gist →](https://gist.github.com/jwalkerclaxton/d6c017593aaa8fd426dfa5f96160c017) |
+| **Full Option List** | [See Gist →](https://gist.github.com/lafargaDEV/ea806e4b986464eaad7a1dd0005971ff) |
 
 ---
 
